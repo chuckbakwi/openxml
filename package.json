@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/jthuraisamy/openxml#readme",
   "dependencies": {
-    "jszip": "^2.5.0",
+    "jszip": ">=3.8.0",
     "linq": "^3.0.5",
     "ltxml": "jthuraisamy/ltxml"
   }
